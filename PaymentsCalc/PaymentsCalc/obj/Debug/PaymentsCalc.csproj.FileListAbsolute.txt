@@ -1,0 +1,11 @@
+c:\users\panda\documents\visual studio 2015\Projects\PaymentsCalc\PaymentsCalc\bin\Debug\PaymentsCalc.exe.config
+c:\users\panda\documents\visual studio 2015\Projects\PaymentsCalc\PaymentsCalc\bin\Debug\PaymentsCalc.exe
+c:\users\panda\documents\visual studio 2015\Projects\PaymentsCalc\PaymentsCalc\bin\Debug\PaymentsCalc.pdb
+c:\users\panda\documents\visual studio 2015\Projects\PaymentsCalc\PaymentsCalc\obj\Debug\PaymentsCalc.Calc.resources
+c:\users\panda\documents\visual studio 2015\Projects\PaymentsCalc\PaymentsCalc\obj\Debug\PaymentsCalc.Properties.Resources.resources
+c:\users\panda\documents\visual studio 2015\Projects\PaymentsCalc\PaymentsCalc\obj\Debug\PaymentsCalc.csproj.GenerateResource.Cache
+c:\users\panda\documents\visual studio 2015\Projects\PaymentsCalc\PaymentsCalc\obj\Debug\PaymentsCalc.exe
+c:\users\panda\documents\visual studio 2015\Projects\PaymentsCalc\PaymentsCalc\obj\Debug\PaymentsCalc.pdb
+C:\Users\panda\Source\Repos\CalcAmount\PaymentsCalc\PaymentsCalc\bin\Debug\PaymentsCalc.exe.config
+C:\Users\panda\Source\Repos\CalcAmount\PaymentsCalc\PaymentsCalc\obj\Debug\PaymentsCalc.exe
+C:\Users\panda\Source\Repos\CalcAmount\PaymentsCalc\PaymentsCalc\obj\Debug\PaymentsCalc.pdb
